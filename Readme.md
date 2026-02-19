@@ -388,3 +388,8 @@ according to CLAUDE.md
 following architecture rules
 ```
 
+# Reference
+
+- [Claude code on month](https://medium.com/%40giuseppetrisciuoglio/claude-code-one-month-of-practical-experience-a-guide-for-software-architects-and-developers-e52b74236d1a)
+
+- [Giuseppe Trisciuoglio](https://medium.com/%40giuseppetrisciuoglio)
